@@ -2,7 +2,7 @@
 ----- =======[ Load WindUI ] =======
 -------------------------------------------
 
-local WindUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/XaaTz/example/refs/heads/main/main.lua"))()
+local WindUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Footagesus/WindUI/refs/heads/main/main.lua"))()
 
 -------------------------------------------
 ----- =======[ GLOBAL FUNCTION ] =======
